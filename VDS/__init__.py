@@ -10,7 +10,7 @@ from useShodanGetCPE import ShodanDomainSearch
 from Mysql import CPEdb, CVEdb, Assetdb
 import datetime
 
-SHODAN_API_KEY = "E4QhbTa02HZPmlwxWbY9jG8mUobLJlUn"
+SHODAN_API_KEY = "********"
 
 
 class Collection(object):
